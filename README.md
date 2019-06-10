@@ -18,11 +18,21 @@ Rules:
 #### Personal Contribution
 I created the Bullet, Shoot, Button, and collaborated on the New Game class. I also applied the enemy stats to the enemy class. Using the existing enemy info class of a teammate, I created the tournament mode.
 
-#### Main Menu                       Sample Game Play
-<img src='mainMenu.png' width=200>   <img src='gamePlay.png' width=200>
+<div>
+#### Main Menu                      
+<img src='mainMenu.png' width=200>
+</div>
 
-#### How to Play                     Enemy Types
-<img src='howTo.png' width=200>      <img src='chooseEnemy.png' width=200>
+<div float="left">
+#### Sample Game Play
+<img src='gamePlay.png' width=200>
+</div>
+
+#### How to Play                    
+<img src='howTo.png' width=200>      
+
+#### Enemy Types
+<img src='chooseEnemy.png' width=200>
 
 ## Requirements
 - Processing
