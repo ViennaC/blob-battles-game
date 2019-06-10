@@ -3,15 +3,14 @@ This project was created in a team of four people including myself.
 This game portrays a good square fighting for its life in space against the dark forces of circles. There will be various enemies that the good square may choose to fight to ultimately be victorious at the end. 
 
 Rules:
-1.Dodge enemies to avoid losing health.
-2.Defeat enemies to gain points. Accomplish this by using the spacebar to shoot. 
-3.Points can be spent to buy the following booster packs or towers that help shoot the enemies
-	a.3 towers that cost 10, 20, 30 points respectively. Bigger and more powerful 
-	towers cost more points
-	b.Faster bullet speed for 15 points
-	c.Restore health for 15 points
-	d.Faster firing rate for 15 points
-	e.Slow down enemies for 10 seconds for 15 points
+1. Dodge enemies to avoid losing health.
+2. Defeat enemies to gain points. Accomplish this by using the spacebar to shoot. 
+3. Points can be spent to buy the following booster packs or towers that help shoot the enemies
+	* 3 towers that cost 10, 20, 30 points respectively. Bigger and more powerful towers cost more points
+	* Faster bullet speed for 15 points
+	* Restore health for 15 points
+	* Faster firing rate for 15 points
+	* Slow down enemies for 10 seconds for 15 points
 3. Reach >= 100 points to reveal the base.
 4. Reach the base to win.
 
