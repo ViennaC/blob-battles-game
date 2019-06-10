@@ -1,0 +1,8 @@
+Name,Health,Speed,Description,Radius
+Basic Blob,2,slow,Not too complicated,45
+Armored Blob,5,slow,A lot stronger!,45
+Speedy Blob,2,fast,"Harder to dodge, harder to shoot",45
+Angry Blob,2,slow,Brings companions,45
+Super Blob,10,fast,Fast and strong!,60
+Overly Attached Blob,2,slow,Follows your every move,45
+Mega Blob,20,slow,Mwahaha,80
